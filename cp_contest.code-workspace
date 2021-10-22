@@ -3,5 +3,17 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"set": "cpp",
+			"vector": "cpp",
+			"iosfwd": "cpp",
+			"string": "cpp",
+			"iostream": "cpp",
+			"queue": "cpp",
+			"utility": "cpp"
+		}
+	}
 }

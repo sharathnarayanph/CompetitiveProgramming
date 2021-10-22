@@ -13,13 +13,11 @@ using namespace std;
 int main()
 {
 
-#ifndef CONTEST
-	INPUT_OUTPUT;
-#endif
+    #ifndef CONTEST
+    INPUT_OUTPUT;
+    #endif
 
-	//Driver code
-	int a = 4, b = 6;
-	cout << 4 * 6;
+    //Driver code
 
-	return 0;
+    return 0;
 }
